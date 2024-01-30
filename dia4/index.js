@@ -3,8 +3,8 @@ let idade = prompt (("qual sua idade"))
 let habilitação = prompt (("Possui Habilitação? (sim/nao)"))
 let automovel = prompt (("Voçê Possui algum carro? (sim/nao)"))
 
-if (idade <= 18 || habilitação === "nao")
-{
+if (idade <= 18 || habilitaç"nao")
+{ão === 
     console.log (nome, 'Você não pode dirigir.' )
 }
     else if (automovel === "nao")
