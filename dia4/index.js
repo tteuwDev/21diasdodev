@@ -7,7 +7,7 @@ if (idade <= 18 || habilitaç"nao")
 {ão === 
     console.log (nome, 'Você não pode dirigir.' )
 }
-    else if (automovel === "nao")
+else if (automovel === "nao")
     {
     console.log (nome,  "voçê pode dirigir mas não tem um carro.")
 }
